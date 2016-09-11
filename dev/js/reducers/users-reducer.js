@@ -2,26 +2,26 @@ export default function () {
     return [
         {
             id: 1,
-            first: "Bucky",
-            last: "Roberts",
+            first: "John",
+            last: "Johnson",
             age: 71,
-            description: "Bucky is a React developer and YouTuber",
+            description: "Loves pizza."
             thumbnail: "http://i.imgur.com/7yUvePI.jpg"
         },
         {
             id: 2,
-            first: "Joby",
-            last: "Wasilenko",
+            first: "Sally",
+            last: "Wawrinka",
             age: 27,
-            description: "Joby loves the Packers, cheese, and turtles.",
+            description: "Hates pizza.",
             thumbnail: "http://i.imgur.com/52xRlm8.png"
         },
         {
             id: 3,
-            first: "Madison",
-            last: "Williams",
+            first: "Ho",
+            last: "Jenkins",
             age: 24,
-            description: "Madi likes her dog but it is really annoying.",
+            description: "Is indifferent towards pizza.",
             thumbnail: "http://i.imgur.com/4EMtxHB.png"
         }
     ]
