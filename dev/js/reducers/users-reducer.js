@@ -5,7 +5,7 @@ export default function () {
             first: "John",
             last: "Johnson",
             age: 71,
-            description: "Loves pizza."
+            description: "Loves pizza.", 
             thumbnail: "http://i.imgur.com/7yUvePI.jpg"
         },
         {
